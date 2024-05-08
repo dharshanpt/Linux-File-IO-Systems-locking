@@ -77,10 +77,9 @@ int main() {
 }
 ```
 ## OUTPUT
-```
+
 ![1st](https://github.com/dharshanpt/Linux-File-IO-Systems-locking/assets/138849376/70ebb29e-4365-42fc-bb57-41259c7eb731)
 
-```
 ## 2.To Write a C program that illustrates files locking
 ```
 #include <fcntl.h>
@@ -123,8 +122,6 @@ return 0;
 
 ```
 ## OUTPUT
-```
 ![2nd](https://github.com/dharshanpt/Linux-File-IO-Systems-locking/assets/138849376/701d798e-8032-4810-a45c-37825446961f)
-```
 # RESULT:
 The programs are executed successfully.
