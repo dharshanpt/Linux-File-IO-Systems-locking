@@ -78,7 +78,7 @@ int main() {
 ```
 ## OUTPUT
 ```
-![WhatsApp Image 2024-05-08 at 15 12 03_aae52c57](https://github.com/dharshanpt/Linux-File-IO-Systems-locking/assets/138849376/dda69e8d-fdc9-4eda-8588-44ece6835c26)
+![1st](https://github.com/dharshanpt/Linux-File-IO-Systems-locking/assets/138849376/70ebb29e-4365-42fc-bb57-41259c7eb731)
 
 ```
 ## 2.To Write a C program that illustrates files locking
@@ -124,7 +124,7 @@ return 0;
 ```
 ## OUTPUT
 ```
-![WhatsApp Image 2024-05-08 at 15 12 03_60b3628a](https://github.com/dharshanpt/Linux-File-IO-Systems-locking/assets/138849376/5513d3fb-8bc7-4222-af31-4e9afc0bace5)
+![2nd](https://github.com/dharshanpt/Linux-File-IO-Systems-locking/assets/138849376/701d798e-8032-4810-a45c-37825446961f)
 ```
 # RESULT:
 The programs are executed successfully.
